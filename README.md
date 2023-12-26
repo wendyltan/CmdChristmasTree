@@ -14,11 +14,11 @@
 
 4. Press "**enter**" to quit the program anytime you want.
 
-### Notice
+## Notice
 
 The program is generated purely by **ChatGPT-3.5**, program logic designed by me. Anyone can use it freely or build more funny trees based on the source codes.
 
-### Dependency
+## Dependency
 
 No dependency needed for released executable.
 
@@ -28,7 +28,7 @@ For source code, I'm using **python-3.7** and have packages below:
 
 - keyboard 0.13.5
 
-### Program Screenshot
+## Program Screenshot
 
  <img src="pic1.PNG" title="" alt="" width="627">
 
